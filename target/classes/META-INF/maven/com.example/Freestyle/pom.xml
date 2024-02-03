@@ -12,8 +12,11 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.complier.source>17</maven.complier.source>
+    <maven.complier.targer>17</maven.complier.targer>
   </properties>
-
+ 
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
